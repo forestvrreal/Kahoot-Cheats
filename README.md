@@ -4,8 +4,8 @@ This cheat allows users to gain an advantage in Kahoot by adding the provided Js
 
 ## Features
 
-- Easy to use by adding HTML code to a bookmark
-- Works directly in the browser during Blooket games
+- Easy to use by adding Js code to a bookmark
+- Works directly in the browser during Kahoot games
 - No installations or extra software required
 
 ## Installation Instructions
